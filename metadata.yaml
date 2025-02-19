@@ -1,0 +1,41 @@
+_repo: Human-nature-and-the-social-order_75145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooley, Charles Horton
+    birthdate: 1864
+    deathdate: 1929
+    gutenberg_agent_id: '56758'
+    url: http://www.gutenberg.org/2009/agents/56758
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Horton_Cooley
+description: ''
+gutenberg_issued: '2025-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75145'
+  lccn: 02022187
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark%3A%2F13960%2Ft2k64cp4n&seq=9
+pgterms:marc905: 20230817171455cooley
+pgterms:marc906: '1902'
+pgterms:marc907: us
+production_note: Richard Tonsing, David Edwards, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sociology'
+- !lcsh 'Social psychology'
+- !lcsh 'Individualism'
+- !lcc 'HM'
+- GITenberg
+tableOfContents: 'Society and the individual -- Suggestion and choice -- Sociability
+  and personal ideas -- Sympathy or communion as an aspect of society -- The social
+  self, 1: The meaning of "I" -- The social self, 2: Various phases of "I" -- Hostility
+  -- Emulation -- Leadership or personal ascendancy -- The social aspect of conscience
+  -- Personal degeneracy -- Freedom.'
+title: Human nature and the social order
+url: http://www.gutenberg.org/ebooks/75145
